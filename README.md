@@ -54,23 +54,23 @@ df.isnull().sum()
 ```
 # OUPUT
 
-![](c1.jpeg)
+![](c1.png)
 
-![](c2.jpeg)
+![](c2.png)
 
-![](c3.jpeg)
+![](c3.png)
 
-![](c4.jpeg)
+![](c4.png)
 
-![](c5.jpeg)
+![](c5.png)
 
-![](c6.jpeg)
+![](c6.png)
 
-![](c7.jpeg)
+![](c7.png)
 
-![](c8.jpeg)
+![](c8.png)
 
-![](c9.jpeg)
+![](c9.png)
 
 # Result
 
